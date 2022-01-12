@@ -1,0 +1,43 @@
+.home-container {
+    position: relative;
+}
+
+.home-bg {
+    width: 100%;
+}
+
+.home-logo {
+    position: absolute;
+    color: #fff;
+    top: 30px;
+    left: 30px;
+}
+
+.home-logo h2 {
+    color: #fff;
+}
+
+.user-status-container {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 30px;
+    right: 50px;
+    cursor: pointer;
+}
+
+.home-content-container {
+    padding-top: 10px;
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+.search-container {
+    padding-left: 20px;
+}
+
+.listings-container {
+    margin-left: -20px;
+    margin-top: -20px;
+}

@@ -1,0 +1,27 @@
+img {
+    margin: 20px;
+}
+
+.room-information-container {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.date-pick {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.total-price {
+    margin-top: 20px;
+}
+
+.status {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.comments {
+    margin-left: 20px;
+    margin-top: 20px;
+}
